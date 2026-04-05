@@ -32,4 +32,4 @@ out/
 .vscode/
 .DS_Store
 bin/
-*.calss
+*.class
